@@ -1,6 +1,6 @@
 # book2twitter
 
-2 to do:
+2do:
 
 -correctly generate sentences from 2 pages 
 
